@@ -17,7 +17,7 @@ function [map] = load_map_file(fileName)
 
 
 %%
-clear all
+% clear all
 
 % option 1
 % fileName = '/Users/leorkatz/Dropbox/Code/krauzlislab_code/mpx_files/testing_conversion_software/vProbe_in_saline_struct.mat');
